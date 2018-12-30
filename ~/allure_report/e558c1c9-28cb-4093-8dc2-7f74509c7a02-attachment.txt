@@ -1,0 +1,6 @@
+DEBUG:Environment: ['https://demo.diprella.com/', 'kindrachuchka@gmail.com', 'street0912']
+DEBUG:Parameters: ('kindrachuchka@gmail.com', 'street0912')
+DEBUG:Environment: ['https://demo.diprella.com/', 'kindrachuchka@gmail.com', 'street0912']
+DEBUG:Parameters: ('kindrachuchka@gmail.com', 'street0912')
+DEBUG:Environment: ['https://demo.diprella.com/', 'kindrachuchka@gmail.com', 'street0912']
+DEBUG:Parameters: ('kindrachuchka@gmail.com', 'street0912')

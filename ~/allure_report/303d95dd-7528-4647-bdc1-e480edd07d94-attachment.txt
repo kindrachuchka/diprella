@@ -1,0 +1,3 @@
+[1mcollected 3 items                                                              [0m
+
+test/test_page.py::TestPages::test_main_page[kindrachuchka@gmail.com-street0912] 
